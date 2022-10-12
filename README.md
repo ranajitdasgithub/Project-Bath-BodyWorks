@@ -1,54 +1,85 @@
-# Unit-2-Project
+###  You are looking of website <span>Bath & Body Works Clone<span>
 
+ <h2>Welcome to this repo</h2>
+ We are team of 4 members ( Shubham Agnihotri, Sachin Kumar, Anjani Vara Prasad, Ranajit Das) has completed the task in 6 days and Given our 
+ best efforts to Construct this project.
+In case of any suggestion and query feel free to connect us.
+ 
+ <h1>TOOLS AND TECHNOLOGY USED ></h1>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Advanced Javascript</li> 
 
-## Bath & Body Works clone
+ 
+### Project Description
+ 
+ 
+ <h1>About </h1>
+    American beauty brand Bath & Body Works, known for its body care and home products, has launched its online store in India. The 4 billion dollar brand had opened seven retail outlets across Delhi, Mumbai and recently Chennai since its entry in July 2018 in partnership with franchisee retailer Major Brands (India)
 
-This is a e-commerce website clone that we made during the construct week at Masai School. It was completed within 6 days.
+---
 
+### Netlify Link
+ 
+https://beautiful-cat-23c58b.netlify.app/index.html
+ 
+ 
+ ### Following are the Screenshots for the reference
 
+- *Landing Page*
 
+![Screenshot (936)](https://user-images.githubusercontent.com/101388961/192011089-f411a085-f68a-470c-8085-8b5c4b53dadf.png)
 
-## Deployment
+- *Login Page*
 
-This project is deployed on netlify here - [Bath & Body works](https://beautiful-cat-23c58b.netlify.app/)
+![Screenshot (937)](https://user-images.githubusercontent.com/101388961/192011234-dc2daa73-ef82-414a-90d2-30797ca9a04d.png)
 
+- *Body Care Page*
 
-![Screenshot (397)](https://user-images.githubusercontent.com/102143515/193774432-245cabbf-ea2f-4da7-9d4a-4e044acc5ff6.png)
-![Screenshot (398)](https://user-images.githubusercontent.com/102143515/193774460-9a8e71a3-542a-4591-b38d-c03643df046c.png)
-![Screenshot (399)](https://user-images.githubusercontent.com/102143515/193774478-d417b96b-261c-4146-b94c-f613e1445791.png)
-![Screenshot (400)](https://user-images.githubusercontent.com/102143515/193774493-2d8b9b73-9b17-4509-8985-6f38b90bb313.png)
+![Screenshot (939)](https://user-images.githubusercontent.com/101388961/192011454-87008c38-1417-41b6-a994-75f9a3e7be7c.png)
 
+- *Home Fragrance Page*
 
-## Authors
+![Screenshot (940)](https://user-images.githubusercontent.com/101388961/192011549-a40543ec-b330-490a-bbb8-7f10a2dfee58.png)
 
-- [@Shubham Agnihotri](https://github.com/theagni0070)
+- *Candles Page*
 
+![Screenshot (941)](https://user-images.githubusercontent.com/101388961/192011616-9771ea92-a3d8-4838-84c8-bc4f981f69e6.png)
 
-# Description -
+- *Checkout Page*
 
-The e-commerce website has the following pages and the order of flow is also the same.
+![Screenshot (942)](https://user-images.githubusercontent.com/101388961/192011929-b041b947-a73d-47f3-881d-ffbed9272120.png)
 
-## Login and Signup -
-1. Login Page - This page will get the email from user.
-2. Signup Page - This page will get the password and gender from the user.
-3. Login with Password - This page will check the entered Email and Password and redirect you to the Home Page.
+ - *Contact-us Page*
 
-## Home page -
+![Screenshot (938)](https://user-images.githubusercontent.com/101388961/192013376-2ea2d23a-a9a9-4e01-825c-8cd325805bf4.png)
 
+---
 
+### About Project
 
-## Men's Clothing, Women's Clothing - 
-1. You can select various products from this pages.
-2. You can even sort the products according to your comfort.
+> We did this project within 6 days in our unit-2 construct week.
+We have also add some cool functionality in our home page where 
+you can slide images of our products ans in our checkout page you can apply promocode for discount, you
+can Login to buy the products.
 
-## Product Page - 
+---
 
-1. This page gets the data about that specific product from the cateogory pages and displays it in detail here. 
+<h1>WEBSITE USER FLOW ></h1>
 
-3. You can add the product to your cart. The price / cutoff price / discount etc all are displayed here.
+The user flow that we tried to maintain is,
 
-## Cart Page - 
+home -> login -> dashboard -> Enter email details -> 
+Enter password -> Landing page-> -> Products page -> Add to cart -> Checkout page -> Buy now.
 
+ <h1>TEAM MEMBERS AND MESSAGE></h1>
+we really enjoyed this whole part of developing and had a learing experience and have given our best efforts to bring the BEST thing as POSSIBLE.
 
+### Team Members
 
-## Payment page - 
+- **[Shubham Agnihotri]**
+- **[Sachin Kumar]**
+- **[Ranajit Das]**
+- **[Anjani Vara Prasad]**
+
+---
